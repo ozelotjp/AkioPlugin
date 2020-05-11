@@ -1,0 +1,4 @@
+name: AkioPlugin
+version: ${project.version}
+main: app.ozelot.akioplugin.AkioPlugin
+api-version: 1.13
